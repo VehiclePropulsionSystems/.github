@@ -47,6 +47,7 @@ Special High-Power Rocketry Journal Issues:
 ### «Lime Light»
 Our first Unguided Launch Vehicle
 <img src="assets/limelight.png" width="700px">
+
 Results and Observations:
 - Successful remote ignition and initial stability from launch rail.
 - Effective drone-based external video recording.
@@ -92,6 +93,7 @@ Lime Light Asterix is an Unguided vehicle, build to test the improvements from t
 Lime X-M is a next generation of our Guided vehicles, it has all the features of Lime Light Asterix plus a new fin configuration. The fin can was divided into two parts, with mid-body static fins for better stability and smaller tail fins for more precise control. 
 
 <img src="assets/limexm_ndiagram.png" width="700px">
+
 Lime X-M layout: 
 
 1. Control Surfaces
