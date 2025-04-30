@@ -40,13 +40,13 @@ If you use any ideas from the paper or code from our repos, please consider citi
 ### Technical Reports Journal
 Special High-Power Rocketry Journal Issues:
 <a href="https://drive.google.com/drive/folders/1wzRSguSC4xJzmtxK_n2-tJ-JkElodj3I?usp=sharing">Google Drive</a>
-<img src="assets/HPR_TR.png"/>
+<img src="assets/HPR_TR.png" width="700px"/>
 
 
 ## Missions
 ### «Lime Light»
 Our first Unguided Launch Vehicle
-<img src="assets/limelight.png">
+<img src="assets/limelight.png" width="700px">
 Results and Observations:
 - Successful remote ignition and initial stability from launch rail.
 - Effective drone-based external video recording.
@@ -63,7 +63,7 @@ Identified Issues:
 
 ### «Lime X»
 Our first Guided Tail Fin-Controlled Launch Vehicle
-<img src="assets/LimeX_CC.png">
+<img src="assets/LimeX_CC.png" width="700px">
 
 During the flight, the rocket reached an **apogee of 296 meters**. The flight controller correctly detected the trigger and transitioned into
 active roll control mode mid-flight.
@@ -91,7 +91,7 @@ Lime Light Asterix is an Unguided vehicle, build to test the improvements from t
 ### «Lime X-M»
 Lime X-M is a next generation of our Guided vehicles, it has all the features of Lime Light Asterix plus a new fin configuration. The fin can was divided into two parts, with mid-body static fins for better stability and smaller tail fins for more precise control. 
 
-<img src="assets/limexm_ndiagram.png">
+<img src="assets/limexm_ndiagram.png" width="700px">
 Lime X-M layout: 
 
 1. Control Surfaces
